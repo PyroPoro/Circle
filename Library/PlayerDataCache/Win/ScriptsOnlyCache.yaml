@@ -108,6 +108,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Image
     - UnityEngine.UI.LayoutElement
     - UnityEngine.UI.Mask
+    - UnityEngine.UI.RawImage
     - UnityEngine.UI.ScrollRect
     - UnityEngine.UI.Scrollbar
     - UnityEngine.UI.Slider
@@ -322,6 +323,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14768}
     - Class: 114
+      Script: {instanceID: 14822}
+    - Class: 114
       Script: {instanceID: 15282}
     - Class: 114
       Script: {instanceID: 15790}
@@ -362,6 +365,8 @@ ScriptsOnlyBuild:
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    - Class: 328
       Script: {instanceID: 0}
     Assets/Scenes/Menu.unity:
     - Class: 1
