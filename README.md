@@ -1,2 +1,2 @@
 # Circle
-Experimental Rhythm game for Cynthia
+Experimental Rhythm game
